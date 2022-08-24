@@ -1,0 +1,104 @@
+# depslib dependency file v1.0
+1660913717 source:g:\adel\0 self study\embedded systems\sprints\es booster l1\tasks\task_4_payment_system_application\card module\card.c
+
+1660930817 source:g:\adel\0 self study\embedded systems\sprints\es booster l1\tasks\task_4_payment_system_application\server module\server.c
+	"server.h"
+
+1660930948 g:\adel\0 self study\embedded systems\sprints\es booster l1\tasks\task_4_payment_system_application\server module\server.h
+	"../STD_TYPES.h"
+	"../Application.h"
+
+1660916727 g:\adel\0 self study\embedded systems\sprints\es booster l1\tasks\task_4_payment_system_application\std_types.h
+
+1660924355 g:\adel\0 self study\embedded systems\sprints\es booster l1\tasks\task_4_payment_system_application\application.h
+
+1660929044 source:g:\adel\0 self study\embedded systems\sprints\es booster l1\tasks\task_4_payment_system_application\terminal module\terminal.c
+	"terminal.h"
+
+1660922040 g:\adel\0 self study\embedded systems\sprints\es booster l1\tasks\task_4_payment_system_application\terminal module\terminal.h
+	"../STD_TYPES.h"
+	"../Application.h"
+
+1660930313 source:g:\adel\0 self study\embedded systems\sprints\es booster l1\tasks\task_4_payment_system_application\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"STD_TYPES.h"
+	"Application.h"
+	"Server module/server.h"
+	"Terminal module/terminal.h"
+	"Card module/card.h"
+
+1660922075 g:\adel\0 self study\embedded systems\sprints\es booster l1\tasks\task_4_payment_system_application\card module\card.h
+	"../STD_TYPES.h"
+	"../Application.h"
+
+1661115369 source:g:\adel\0 self study\embedded systems\fwd\projects\project_1_payment_system_application\card module\card.c
+	"card.h"
+	"stdio.h"
+
+1661038819 g:\adel\0 self study\embedded systems\fwd\projects\project_1_payment_system_application\card module\card.h
+	"../STD_TYPES.h"
+
+1661011808 g:\adel\0 self study\embedded systems\fwd\projects\project_1_payment_system_application\std_types.h
+
+1661116018 source:g:\adel\0 self study\embedded systems\fwd\projects\project_1_payment_system_application\application.c
+	"Application.h"
+
+1661038819 g:\adel\0 self study\embedded systems\fwd\projects\project_1_payment_system_application\application.h
+	<string.h>
+	<stdio.h>
+	"STD_TYPES.h"
+	"Server module/server.h"
+
+1661111281 g:\adel\0 self study\embedded systems\fwd\projects\project_1_payment_system_application\server module\server.h
+	"../STD_TYPES.h"
+	"../Terminal module/terminal.h"
+
+1661111494 g:\adel\0 self study\embedded systems\fwd\projects\project_1_payment_system_application\terminal module\terminal.h
+	"../STD_TYPES.h"
+	"../Card module/card.h"
+
+1661111494 source:g:\adel\0 self study\embedded systems\fwd\projects\project_1_payment_system_application\server module\server.c
+	"server.h"
+
+1661111494 source:g:\adel\0 self study\embedded systems\fwd\projects\project_1_payment_system_application\terminal module\terminal.c
+	"terminal.h"
+	<stdio.h>
+	<string.h>
+
+1661256858 source:g:\adel\0 self study\embedded systems\fwd\projects\project_1_payment_system_application\01-project\application.c
+	"Application.h"
+
+1661038819 g:\adel\0 self study\embedded systems\fwd\projects\project_1_payment_system_application\01-project\application.h
+	<string.h>
+	<stdio.h>
+	"STD_TYPES.h"
+	"Server module/server.h"
+
+1661011808 g:\adel\0 self study\embedded systems\fwd\projects\project_1_payment_system_application\01-project\std_types.h
+
+1661256376 g:\adel\0 self study\embedded systems\fwd\projects\project_1_payment_system_application\01-project\server module\server.h
+	"../STD_TYPES.h"
+	"../Terminal module/terminal.h"
+
+1661111494 g:\adel\0 self study\embedded systems\fwd\projects\project_1_payment_system_application\01-project\terminal module\terminal.h
+	"../STD_TYPES.h"
+	"../Card module/card.h"
+
+1661123233 g:\adel\0 self study\embedded systems\fwd\projects\project_1_payment_system_application\01-project\card module\card.h
+	"../STD_TYPES.h"
+
+1661185117 source:g:\adel\0 self study\embedded systems\fwd\projects\project_1_payment_system_application\01-project\card module\card.c
+	"card.h"
+	"stdio.h"
+
+1661256384 source:g:\adel\0 self study\embedded systems\fwd\projects\project_1_payment_system_application\01-project\server module\server.c
+	"server.h"
+	<string.h>
+
+1661242964 source:g:\adel\0 self study\embedded systems\fwd\projects\project_1_payment_system_application\01-project\terminal module\terminal.c
+	"terminal.h"
+	<stdio.h>
+	<string.h>
+
